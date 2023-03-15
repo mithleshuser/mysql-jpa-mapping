@@ -1,0 +1,13 @@
+{
+  "configResolution": {
+    "resource": {
+      "sqlServer.driverClassName": "",
+      "sqlServer.connection.pool.initial.size": 3,
+      "sqlServer.sqlServer.connection.idle.timeout.ms": 30000,
+      "sqlServer.connection.max.life.time.ms": 180000,
+      "sqlServer.connection.max.active": 5,
+      "sqlServer.url": "",
+      "sqlServer.connection.timeout.ms": 30000
+    }
+  }
+}
